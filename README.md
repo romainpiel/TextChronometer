@@ -1,8 +1,9 @@
 # TextChronometer
 
 TextChronometer is a very simple library offering a widget showing a live time formatted like "4 seconds ago":
-
 This library is very convenient if you are building apps with a live timeline.
+
+For more details, read [this article](http://romainpiel.github.io/blog/2013/07/22/textchronometer/).
 
 
 ## License

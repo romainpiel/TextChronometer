@@ -1,0 +1,7 @@
+.gradle/*
+.idea/*
+*.apk
+*.class
+*.aar
+*/build/*
+gradle/*

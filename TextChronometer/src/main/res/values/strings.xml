@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TextChronometer</string>
+
+    <string name="general.ago">"ago"</string>
+    <string name="general.momentAgo">"a moment"</string>
+    <string name="general.second">"sec"</string>
+    <string name="general.seconds">"secs"</string>
+    <string name="general.minute">"min"</string>
+    <string name="general.minutes">"mins"</string>
+    <string name="general.hour">"hour"</string>
+    <string name="general.hours">"hours"</string>
+    <string name="general.day">"day"</string>
+    <string name="general.days">"days"</string>
+    <string name="general.timeAgo_">"%1$s ago"</string>
+
+</resources>
